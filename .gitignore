@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Documentation (players only need the source)
+*.md
+
+# Runtime data
+highscore.txt
+
+# Windows launcher (local only — use ./cryptwave to start)
+cryptwave.bat
+
+# Debug artifacts
+castle_debug.txt
+castle_render.txt
+
+# OS junk
+Thumbs.db
+.DS_Store

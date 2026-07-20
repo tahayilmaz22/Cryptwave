@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Cryptwave: Terminal-Cancer — launcher (Git Bash / Unix)
+cd "$(dirname "$0")"
+python main.py "$@"
